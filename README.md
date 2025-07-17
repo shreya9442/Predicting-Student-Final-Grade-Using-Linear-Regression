@@ -6,7 +6,7 @@ To predict students' final grade (G3) using Linear Regression based on various a
 ### Steps Followed:
 Loaded and cleaned the dataset (student-mat.csv)
 
-Handled categorical variables using appropriate encoding:
+Handled categorical variables using appropriate encoding: 
 
 Binary columns (e.g., sex, internet) -- Label Encoding
 
